@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @izabelcbarranco
+- 👀 I’m interested in CSS, HTML, JAVASCRIPT, JAVA
+- 🌱 I’m currently learning oriented object programming in java
+- 📫 Email me on: izabelbarranco@usp.br
